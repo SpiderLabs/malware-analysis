@@ -1,0 +1,10 @@
+FinSpy Helper Scripts
+=====================
+
+The following three scripts are contained in this folder which may be used to
+assist the aspiring reverse engineer who wishes to investigate Android samples
+which belong to the FinSpy family.
+
+* extractConfig.rb: Extract the raw configuration from a FinSpy APK
+* parseConfig.rb: Take the previously extracted config and parse it
+* writeConfig.rb: Overwrite a FinSpy APK configuration with one of your choosing
